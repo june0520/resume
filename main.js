@@ -1,5 +1,6 @@
 let resume = `# 王亚琼
 18610120521 | 1337795879@qq.com 
+在线简历： https://june0520.github.io/resume/
 Github: https://github.com/june0520
 意向岗位 | 前端开发
 
@@ -32,7 +33,7 @@ Github: https://github.com/june0520
 - 关键词：\`Vue\`、\`vueX\`、\`Mint UI\`、\`vue-router\`、\`vue-axios\`、\`webpack\`、\`组件通讯\`、\`生命周期\`
 - 源码链接：https://github.com/june0520/vue-program-xiaopinggai
 - 预览链接：https://june0520.github.io/vue-xiaopinggai-preview/#/home
-- 描述：这是一个用 Vue + Mint-ui 制作的移动端应用，包括新闻资讯、图片分享、模拟商场、购物车、Ai聊天，利用canvas生成海报保存到本地相册，登录注册表单验证功能等页面；使用 跨域 请求实现数据加载，使用路由懒加载技术，图片懒加载技术，VueX实现购物车，全局过滤器、拦截器 及页面过渡动画 ,localStorage等技术；
+- 描述：这是一个用 Vue + Mint-ui 制作的移动端应用，包括新闻资讯、图片分享、模拟商场、购物车、Ai聊天，利用canvas生成海报保存到本地相册，登录注册表单验证功能等页面；使用 跨域 请求实现数据加载，使用路由懒加载技术，图片懒加载技术，VueX实现购物车，全局过滤器、拦截器 及页面过渡动画 ,localStorage等技术。
 
 ### PC网站及对应移动端H5
 - 关键词：\`JavaScript\`、\`CSS3\`、\`HTML5\`、\`Vue\`、\`jQuery\`
